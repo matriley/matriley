@@ -1,5 +1,7 @@
 <h3 align="center">Programmer currently studying Reinforcement Learning and Neural Networks</h3>
 
+
+ㅤ
 - Currently working on [Pong Reinforcement Learning](https://github.com/matriley/Pong-Reinforcement-Learning.git)
 
 - Currently learning **Neural Networks**
